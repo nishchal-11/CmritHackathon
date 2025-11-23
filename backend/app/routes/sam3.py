@@ -9,7 +9,13 @@ import shutil
 from datetime import datetime
 import os
 
-from app.cv.sam3_detector import get_detector, SAM3_AVAILABLE
+# Try to import SAM3 detector (optional)
+try:
+    from app.cv.sam3_detector import get_detector, SAM3_AVAILABLE
+except ImportError:
+    SAM3_AVAILABLE = False
+    def get_detector():
+        raise HTTPException(status_code=503, detail="SAM3 not available. Install: pip install transformers torch")
 from app.cv.vehicle_matcher import vehicle_matcher
 
 router = APIRouter()

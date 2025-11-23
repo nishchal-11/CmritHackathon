@@ -10,15 +10,17 @@ from typing import List, Dict, Any, Tuple, Optional
 import json
 from datetime import datetime
 from PIL import Image
-import torch
 
 # Try to import SAM3 dependencies
 try:
+    import torch
     from transformers import AutoProcessor, AutoModelForZeroShotObjectDetection
     SAM3_AVAILABLE = True
-except ImportError:
+except ImportError as e:
     SAM3_AVAILABLE = False
-    print("⚠️ SAM3 dependencies not available. Install: pip install transformers torch")
+    torch = None
+    print(f"⚠️ SAM3 dependencies not available: {e}")
+    print("Install with: pip install transformers torch")
 
 from dotenv import load_dotenv
 
@@ -115,6 +117,8 @@ class SAM3VehicleDetector:
             ).to(self.device)
             
             # Run inference
+            if torch is None:
+                raise RuntimeError("Torch is not available. SAM3 requires torch to be installed.")
             with torch.no_grad():
                 outputs = self.model(**inputs)
             

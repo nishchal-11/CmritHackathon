@@ -21,6 +21,10 @@ sys.path.insert(0, str(REALESRGAN_PATH))
 
 # Try to import Real-ESRGAN components
 REALESRGAN_AVAILABLE = False
+RRDBNet = None
+RealESRGANer = None
+SRVGGNetCompact = None
+
 try:
     import cv2
     import numpy as np
@@ -28,9 +32,10 @@ try:
     from realesrgan import RealESRGANer
     from realesrgan.archs.srvgg_arch import SRVGGNetCompact
     REALESRGAN_AVAILABLE = True
-except ImportError as e:
-    print(f"⚠️ Real-ESRGAN not available: {e}")
-    print("Install with: pip install basicsr realesrgan opencv-python torch torchvision")
+except (ImportError, ModuleNotFoundError) as e:
+    # Silently handle missing dependencies - feature will be disabled
+    REALESRGAN_AVAILABLE = False
+    pass
 
 
 @router.post("/gan")

@@ -34,7 +34,7 @@ if ASSETS_PATH.exists():
     app.mount("/static/assets", StaticFiles(directory=str(ASSETS_PATH)), name="assets")
 
 # Import routes
-from app.routes import camera, enhance, route as route_module, tracking, vehicle, realesrgan_enhance, sam3
+from app.routes import camera, enhance, route as route_module, tracking, vehicle, realesrgan_enhance
 
 # Include routers
 app.include_router(camera.router, prefix="/api/camera", tags=["Camera"])
@@ -43,7 +43,14 @@ app.include_router(realesrgan_enhance.router, prefix="/api/realesrgan", tags=["R
 app.include_router(route_module.router, prefix="/api/route", tags=["Routing"])
 app.include_router(tracking.router, prefix="/api", tags=["Vehicle Tracking"])
 app.include_router(vehicle.router, prefix="/api/vehicle", tags=["Vehicle Upload"])
-app.include_router(sam3.router, prefix="/api/sam3", tags=["SAM3 Detection"])
+
+# Try to import SAM3 router (optional - requires torch)
+try:
+    from app.routes import sam3
+    app.include_router(sam3.router, prefix="/api/sam3", tags=["SAM3 Detection"])
+except ImportError as e:
+    print(f"⚠️ SAM3 routes not available: {e}")
+    print("SAM3 features will be disabled. Install with: pip install transformers torch")
 
 
 @app.get("/")
