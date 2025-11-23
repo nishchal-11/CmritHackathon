@@ -1,0 +1,1369 @@
+{
+  "video_path": "C:\\Users\\Nishc\\OneDrive\\Desktop\\cmrit hacakthon\\gridlock-operation-foss\\assets\\videos\\camera_1_20251123_131609.mp4",
+  "node_name": "camera_1",
+  "processed_at": "2025-11-23T13:16:10.169211",
+  "total_frames": 2168,
+  "fps": 30,
+  "frames": [
+    {
+      "frame_idx": 0,
+      "processed_idx": 0,
+      "confidence": 0.85,
+      "bbox": [
+        1236,
+        405,
+        1375,
+        445
+      ],
+      "mask_path": "frame_00000_mask.png",
+      "overlay_path": "frame_00000_overlay.png",
+      "area": 5346
+    },
+    {
+      "frame_idx": 15,
+      "processed_idx": 1,
+      "confidence": 0.85,
+      "bbox": [
+        1236,
+        404,
+        1375,
+        444
+      ],
+      "mask_path": "frame_00001_mask.png",
+      "overlay_path": "frame_00001_overlay.png",
+      "area": 5351
+    },
+    {
+      "frame_idx": 30,
+      "processed_idx": 2,
+      "confidence": 0.85,
+      "bbox": [
+        1236,
+        404,
+        1375,
+        444
+      ],
+      "mask_path": "frame_00002_mask.png",
+      "overlay_path": "frame_00002_overlay.png",
+      "area": 5351
+    },
+    {
+      "frame_idx": 45,
+      "processed_idx": 3,
+      "confidence": 0.85,
+      "bbox": [
+        1236,
+        288,
+        1375,
+        328
+      ],
+      "mask_path": "frame_00003_mask.png",
+      "overlay_path": "frame_00003_overlay.png",
+      "area": 5353
+    },
+    {
+      "frame_idx": 60,
+      "processed_idx": 4,
+      "confidence": 0.85,
+      "bbox": [
+        1236,
+        405,
+        1375,
+        445
+      ],
+      "mask_path": "frame_00004_mask.png",
+      "overlay_path": "frame_00004_overlay.png",
+      "area": 5346
+    },
+    {
+      "frame_idx": 75,
+      "processed_idx": 5,
+      "confidence": 0.85,
+      "bbox": [
+        1236,
+        405,
+        1375,
+        445
+      ],
+      "mask_path": "frame_00005_mask.png",
+      "overlay_path": "frame_00005_overlay.png",
+      "area": 5346
+    },
+    {
+      "frame_idx": 90,
+      "processed_idx": 6,
+      "confidence": 0.85,
+      "bbox": [
+        1236,
+        405,
+        1375,
+        445
+      ],
+      "mask_path": "frame_00006_mask.png",
+      "overlay_path": "frame_00006_overlay.png",
+      "area": 5346
+    },
+    {
+      "frame_idx": 105,
+      "processed_idx": 7,
+      "confidence": 0.85,
+      "bbox": [
+        1236,
+        405,
+        1375,
+        445
+      ],
+      "mask_path": "frame_00007_mask.png",
+      "overlay_path": "frame_00007_overlay.png",
+      "area": 5346
+    },
+    {
+      "frame_idx": 120,
+      "processed_idx": 8,
+      "confidence": 0.85,
+      "bbox": [
+        1236,
+        405,
+        1375,
+        445
+      ],
+      "mask_path": "frame_00008_mask.png",
+      "overlay_path": "frame_00008_overlay.png",
+      "area": 5346
+    },
+    {
+      "frame_idx": 135,
+      "processed_idx": 9,
+      "confidence": 0.85,
+      "bbox": [
+        1236,
+        405,
+        1375,
+        445
+      ],
+      "mask_path": "frame_00009_mask.png",
+      "overlay_path": "frame_00009_overlay.png",
+      "area": 5346
+    },
+    {
+      "frame_idx": 150,
+      "processed_idx": 10,
+      "confidence": 0.85,
+      "bbox": [
+        1236,
+        405,
+        1375,
+        445
+      ],
+      "mask_path": "frame_00010_mask.png",
+      "overlay_path": "frame_00010_overlay.png",
+      "area": 5346
+    },
+    {
+      "frame_idx": 165,
+      "processed_idx": 11,
+      "confidence": 0.85,
+      "bbox": [
+        1236,
+        405,
+        1375,
+        445
+      ],
+      "mask_path": "frame_00011_mask.png",
+      "overlay_path": "frame_00011_overlay.png",
+      "area": 5346
+    },
+    {
+      "frame_idx": 180,
+      "processed_idx": 12,
+      "confidence": 0.85,
+      "bbox": [
+        1236,
+        405,
+        1375,
+        445
+      ],
+      "mask_path": "frame_00012_mask.png",
+      "overlay_path": "frame_00012_overlay.png",
+      "area": 5346
+    },
+    {
+      "frame_idx": 195,
+      "processed_idx": 13,
+      "confidence": 0.85,
+      "bbox": [
+        1236,
+        405,
+        1375,
+        445
+      ],
+      "mask_path": "frame_00013_mask.png",
+      "overlay_path": "frame_00013_overlay.png",
+      "area": 5346
+    },
+    {
+      "frame_idx": 210,
+      "processed_idx": 14,
+      "confidence": 0.85,
+      "bbox": [
+        1236,
+        405,
+        1375,
+        445
+      ],
+      "mask_path": "frame_00014_mask.png",
+      "overlay_path": "frame_00014_overlay.png",
+      "area": 5346
+    },
+    {
+      "frame_idx": 225,
+      "processed_idx": 15,
+      "confidence": 0.85,
+      "bbox": [
+        1236,
+        405,
+        1375,
+        445
+      ],
+      "mask_path": "frame_00015_mask.png",
+      "overlay_path": "frame_00015_overlay.png",
+      "area": 5346
+    },
+    {
+      "frame_idx": 240,
+      "processed_idx": 16,
+      "confidence": 0.85,
+      "bbox": [
+        1236,
+        405,
+        1375,
+        445
+      ],
+      "mask_path": "frame_00016_mask.png",
+      "overlay_path": "frame_00016_overlay.png",
+      "area": 5346
+    },
+    {
+      "frame_idx": 255,
+      "processed_idx": 17,
+      "confidence": 0.85,
+      "bbox": [
+        1236,
+        405,
+        1375,
+        445
+      ],
+      "mask_path": "frame_00017_mask.png",
+      "overlay_path": "frame_00017_overlay.png",
+      "area": 5346
+    },
+    {
+      "frame_idx": 270,
+      "processed_idx": 18,
+      "confidence": 0.85,
+      "bbox": [
+        1236,
+        405,
+        1375,
+        445
+      ],
+      "mask_path": "frame_00018_mask.png",
+      "overlay_path": "frame_00018_overlay.png",
+      "area": 5346
+    },
+    {
+      "frame_idx": 285,
+      "processed_idx": 19,
+      "confidence": 0.85,
+      "bbox": [
+        1250,
+        405,
+        1389,
+        445
+      ],
+      "mask_path": "frame_00019_mask.png",
+      "overlay_path": "frame_00019_overlay.png",
+      "area": 5346
+    },
+    {
+      "frame_idx": 300,
+      "processed_idx": 20,
+      "confidence": 0.85,
+      "bbox": [
+        1250,
+        405,
+        1389,
+        445
+      ],
+      "mask_path": "frame_00020_mask.png",
+      "overlay_path": "frame_00020_overlay.png",
+      "area": 5346
+    },
+    {
+      "frame_idx": 315,
+      "processed_idx": 21,
+      "confidence": 0.85,
+      "bbox": [
+        1250,
+        405,
+        1389,
+        445
+      ],
+      "mask_path": "frame_00021_mask.png",
+      "overlay_path": "frame_00021_overlay.png",
+      "area": 5346
+    },
+    {
+      "frame_idx": 330,
+      "processed_idx": 22,
+      "confidence": 0.85,
+      "bbox": [
+        1250,
+        405,
+        1389,
+        445
+      ],
+      "mask_path": "frame_00022_mask.png",
+      "overlay_path": "frame_00022_overlay.png",
+      "area": 5346
+    },
+    {
+      "frame_idx": 345,
+      "processed_idx": 23,
+      "confidence": 0.85,
+      "bbox": [
+        1250,
+        405,
+        1389,
+        445
+      ],
+      "mask_path": "frame_00023_mask.png",
+      "overlay_path": "frame_00023_overlay.png",
+      "area": 5346
+    },
+    {
+      "frame_idx": 360,
+      "processed_idx": 24,
+      "confidence": 0.85,
+      "bbox": [
+        1250,
+        405,
+        1389,
+        445
+      ],
+      "mask_path": "frame_00024_mask.png",
+      "overlay_path": "frame_00024_overlay.png",
+      "area": 5346
+    },
+    {
+      "frame_idx": 375,
+      "processed_idx": 25,
+      "confidence": 0.85,
+      "bbox": [
+        1250,
+        405,
+        1389,
+        445
+      ],
+      "mask_path": "frame_00025_mask.png",
+      "overlay_path": "frame_00025_overlay.png",
+      "area": 5346
+    },
+    {
+      "frame_idx": 390,
+      "processed_idx": 26,
+      "confidence": 0.85,
+      "bbox": [
+        1250,
+        405,
+        1389,
+        445
+      ],
+      "mask_path": "frame_00026_mask.png",
+      "overlay_path": "frame_00026_overlay.png",
+      "area": 5346
+    },
+    {
+      "frame_idx": 405,
+      "processed_idx": 27,
+      "confidence": 0.85,
+      "bbox": [
+        1250,
+        405,
+        1389,
+        445
+      ],
+      "mask_path": "frame_00027_mask.png",
+      "overlay_path": "frame_00027_overlay.png",
+      "area": 5346
+    },
+    {
+      "frame_idx": 420,
+      "processed_idx": 28,
+      "confidence": 0.85,
+      "bbox": [
+        1250,
+        405,
+        1389,
+        445
+      ],
+      "mask_path": "frame_00028_mask.png",
+      "overlay_path": "frame_00028_overlay.png",
+      "area": 5346
+    },
+    {
+      "frame_idx": 435,
+      "processed_idx": 29,
+      "confidence": 0.85,
+      "bbox": [
+        1236,
+        405,
+        1375,
+        445
+      ],
+      "mask_path": "frame_00029_mask.png",
+      "overlay_path": "frame_00029_overlay.png",
+      "area": 5346
+    },
+    {
+      "frame_idx": 450,
+      "processed_idx": 30,
+      "confidence": 0.85,
+      "bbox": [
+        1236,
+        405,
+        1375,
+        445
+      ],
+      "mask_path": "frame_00030_mask.png",
+      "overlay_path": "frame_00030_overlay.png",
+      "area": 5346
+    },
+    {
+      "frame_idx": 465,
+      "processed_idx": 31,
+      "confidence": 0.85,
+      "bbox": [
+        1236,
+        405,
+        1375,
+        445
+      ],
+      "mask_path": "frame_00031_mask.png",
+      "overlay_path": "frame_00031_overlay.png",
+      "area": 5346
+    },
+    {
+      "frame_idx": 480,
+      "processed_idx": 32,
+      "confidence": 0.85,
+      "bbox": [
+        1236,
+        405,
+        1375,
+        445
+      ],
+      "mask_path": "frame_00032_mask.png",
+      "overlay_path": "frame_00032_overlay.png",
+      "area": 5346
+    },
+    {
+      "frame_idx": 495,
+      "processed_idx": 33,
+      "confidence": 0.85,
+      "bbox": [
+        1236,
+        405,
+        1375,
+        445
+      ],
+      "mask_path": "frame_00033_mask.png",
+      "overlay_path": "frame_00033_overlay.png",
+      "area": 5346
+    },
+    {
+      "frame_idx": 510,
+      "processed_idx": 34,
+      "confidence": 0.85,
+      "bbox": [
+        1236,
+        405,
+        1375,
+        445
+      ],
+      "mask_path": "frame_00034_mask.png",
+      "overlay_path": "frame_00034_overlay.png",
+      "area": 5346
+    },
+    {
+      "frame_idx": 525,
+      "processed_idx": 35,
+      "confidence": 0.85,
+      "bbox": [
+        1236,
+        405,
+        1375,
+        445
+      ],
+      "mask_path": "frame_00035_mask.png",
+      "overlay_path": "frame_00035_overlay.png",
+      "area": 5346
+    },
+    {
+      "frame_idx": 540,
+      "processed_idx": 36,
+      "confidence": 0.85,
+      "bbox": [
+        116,
+        842,
+        264,
+        994
+      ],
+      "mask_path": "frame_00036_mask.png",
+      "overlay_path": "frame_00036_overlay.png",
+      "area": 19916
+    },
+    {
+      "frame_idx": 555,
+      "processed_idx": 37,
+      "confidence": 0.85,
+      "bbox": [
+        116,
+        714,
+        264,
+        866
+      ],
+      "mask_path": "frame_00037_mask.png",
+      "overlay_path": "frame_00037_overlay.png",
+      "area": 19830
+    },
+    {
+      "frame_idx": 570,
+      "processed_idx": 38,
+      "confidence": 0.85,
+      "bbox": [
+        116,
+        714,
+        264,
+        866
+      ],
+      "mask_path": "frame_00038_mask.png",
+      "overlay_path": "frame_00038_overlay.png",
+      "area": 19830
+    },
+    {
+      "frame_idx": 585,
+      "processed_idx": 39,
+      "confidence": 0.85,
+      "bbox": [
+        406,
+        1008,
+        449,
+        1061
+      ],
+      "mask_path": "frame_00039_mask.png",
+      "overlay_path": "frame_00039_overlay.png",
+      "area": 1215
+    },
+    {
+      "frame_idx": 600,
+      "processed_idx": 40,
+      "confidence": 0.85,
+      "bbox": [
+        406,
+        1008,
+        449,
+        1061
+      ],
+      "mask_path": "frame_00040_mask.png",
+      "overlay_path": "frame_00040_overlay.png",
+      "area": 1211
+    },
+    {
+      "frame_idx": 615,
+      "processed_idx": 41,
+      "confidence": 0.85,
+      "bbox": [
+        406,
+        1008,
+        449,
+        1061
+      ],
+      "mask_path": "frame_00041_mask.png",
+      "overlay_path": "frame_00041_overlay.png",
+      "area": 1211
+    },
+    {
+      "frame_idx": 630,
+      "processed_idx": 42,
+      "confidence": 0.85,
+      "bbox": [
+        1236,
+        405,
+        1375,
+        445
+      ],
+      "mask_path": "frame_00042_mask.png",
+      "overlay_path": "frame_00042_overlay.png",
+      "area": 5346
+    },
+    {
+      "frame_idx": 645,
+      "processed_idx": 43,
+      "confidence": 0.85,
+      "bbox": [
+        1236,
+        405,
+        1375,
+        445
+      ],
+      "mask_path": "frame_00043_mask.png",
+      "overlay_path": "frame_00043_overlay.png",
+      "area": 5346
+    },
+    {
+      "frame_idx": 660,
+      "processed_idx": 44,
+      "confidence": 0.85,
+      "bbox": [
+        1236,
+        405,
+        1375,
+        445
+      ],
+      "mask_path": "frame_00044_mask.png",
+      "overlay_path": "frame_00044_overlay.png",
+      "area": 5346
+    },
+    {
+      "frame_idx": 675,
+      "processed_idx": 45,
+      "confidence": 0.85,
+      "bbox": [
+        1200,
+        574,
+        1328,
+        636
+      ],
+      "mask_path": "frame_00045_mask.png",
+      "overlay_path": "frame_00045_overlay.png",
+      "area": 4865
+    },
+    {
+      "frame_idx": 690,
+      "processed_idx": 46,
+      "confidence": 0.85,
+      "bbox": [
+        1100,
+        751,
+        1367,
+        951
+      ],
+      "mask_path": "frame_00046_mask.png",
+      "overlay_path": "frame_00046_overlay.png",
+      "area": 52856
+    },
+    {
+      "frame_idx": 705,
+      "processed_idx": 47,
+      "confidence": 0.85,
+      "bbox": [
+        756,
+        840,
+        820,
+        887
+      ],
+      "mask_path": "frame_00047_mask.png",
+      "overlay_path": "frame_00047_overlay.png",
+      "area": 1499
+    },
+    {
+      "frame_idx": 720,
+      "processed_idx": 48,
+      "confidence": 0.85,
+      "bbox": [
+        116,
+        714,
+        264,
+        866
+      ],
+      "mask_path": "frame_00048_mask.png",
+      "overlay_path": "frame_00048_overlay.png",
+      "area": 19964
+    },
+    {
+      "frame_idx": 735,
+      "processed_idx": 49,
+      "confidence": 0.85,
+      "bbox": [
+        1160,
+        959,
+        1286,
+        1010
+      ],
+      "mask_path": "frame_00049_mask.png",
+      "overlay_path": "frame_00049_overlay.png",
+      "area": 3650
+    },
+    {
+      "frame_idx": 750,
+      "processed_idx": 50,
+      "confidence": 0.85,
+      "bbox": [
+        1160,
+        275,
+        1286,
+        326
+      ],
+      "mask_path": "frame_00050_mask.png",
+      "overlay_path": "frame_00050_overlay.png",
+      "area": 3608
+    },
+    {
+      "frame_idx": 765,
+      "processed_idx": 51,
+      "confidence": 0.85,
+      "bbox": [
+        126,
+        170,
+        256,
+        226
+      ],
+      "mask_path": "frame_00051_mask.png",
+      "overlay_path": "frame_00051_overlay.png",
+      "area": 6311
+    },
+    {
+      "frame_idx": 780,
+      "processed_idx": 52,
+      "confidence": 0.85,
+      "bbox": [
+        116,
+        956,
+        264,
+        1080
+      ],
+      "mask_path": "frame_00052_mask.png",
+      "overlay_path": "frame_00052_overlay.png",
+      "area": 16340
+    },
+    {
+      "frame_idx": 795,
+      "processed_idx": 53,
+      "confidence": 0.85,
+      "bbox": [
+        1100,
+        965,
+        1367,
+        1080
+      ],
+      "mask_path": "frame_00053_mask.png",
+      "overlay_path": "frame_00053_overlay.png",
+      "area": 26082
+    },
+    {
+      "frame_idx": 810,
+      "processed_idx": 54,
+      "confidence": 0.85,
+      "bbox": [
+        1200,
+        574,
+        1328,
+        636
+      ],
+      "mask_path": "frame_00054_mask.png",
+      "overlay_path": "frame_00054_overlay.png",
+      "area": 4875
+    },
+    {
+      "frame_idx": 825,
+      "processed_idx": 55,
+      "confidence": 0.85,
+      "bbox": [
+        1200,
+        574,
+        1328,
+        636
+      ],
+      "mask_path": "frame_00055_mask.png",
+      "overlay_path": "frame_00055_overlay.png",
+      "area": 4867
+    },
+    {
+      "frame_idx": 840,
+      "processed_idx": 56,
+      "confidence": 0.85,
+      "bbox": [
+        1200,
+        574,
+        1328,
+        636
+      ],
+      "mask_path": "frame_00056_mask.png",
+      "overlay_path": "frame_00056_overlay.png",
+      "area": 4867
+    },
+    {
+      "frame_idx": 855,
+      "processed_idx": 57,
+      "confidence": 0.85,
+      "bbox": [
+        1200,
+        574,
+        1328,
+        636
+      ],
+      "mask_path": "frame_00057_mask.png",
+      "overlay_path": "frame_00057_overlay.png",
+      "area": 4867
+    },
+    {
+      "frame_idx": 870,
+      "processed_idx": 58,
+      "confidence": 0.85,
+      "bbox": [
+        1200,
+        574,
+        1328,
+        636
+      ],
+      "mask_path": "frame_00058_mask.png",
+      "overlay_path": "frame_00058_overlay.png",
+      "area": 4867
+    },
+    {
+      "frame_idx": 885,
+      "processed_idx": 59,
+      "confidence": 0.85,
+      "bbox": [
+        1200,
+        574,
+        1328,
+        636
+      ],
+      "mask_path": "frame_00059_mask.png",
+      "overlay_path": "frame_00059_overlay.png",
+      "area": 4867
+    },
+    {
+      "frame_idx": 900,
+      "processed_idx": 60,
+      "confidence": 0.85,
+      "bbox": [
+        1236,
+        405,
+        1375,
+        445
+      ],
+      "mask_path": "frame_00060_mask.png",
+      "overlay_path": "frame_00060_overlay.png",
+      "area": 5346
+    },
+    {
+      "frame_idx": 915,
+      "processed_idx": 61,
+      "confidence": 0.85,
+      "bbox": [
+        1236,
+        405,
+        1375,
+        445
+      ],
+      "mask_path": "frame_00061_mask.png",
+      "overlay_path": "frame_00061_overlay.png",
+      "area": 5346
+    },
+    {
+      "frame_idx": 930,
+      "processed_idx": 62,
+      "confidence": 0.85,
+      "bbox": [
+        1236,
+        405,
+        1375,
+        445
+      ],
+      "mask_path": "frame_00062_mask.png",
+      "overlay_path": "frame_00062_overlay.png",
+      "area": 5346
+    },
+    {
+      "frame_idx": 945,
+      "processed_idx": 63,
+      "confidence": 0.85,
+      "bbox": [
+        1236,
+        405,
+        1375,
+        445
+      ],
+      "mask_path": "frame_00063_mask.png",
+      "overlay_path": "frame_00063_overlay.png",
+      "area": 5346
+    },
+    {
+      "frame_idx": 960,
+      "processed_idx": 64,
+      "confidence": 0.85,
+      "bbox": [
+        1236,
+        405,
+        1375,
+        445
+      ],
+      "mask_path": "frame_00064_mask.png",
+      "overlay_path": "frame_00064_overlay.png",
+      "area": 5346
+    },
+    {
+      "frame_idx": 975,
+      "processed_idx": 65,
+      "confidence": 0.85,
+      "bbox": [
+        1236,
+        405,
+        1375,
+        445
+      ],
+      "mask_path": "frame_00065_mask.png",
+      "overlay_path": "frame_00065_overlay.png",
+      "area": 5346
+    },
+    {
+      "frame_idx": 990,
+      "processed_idx": 66,
+      "confidence": 0.85,
+      "bbox": [
+        1236,
+        405,
+        1375,
+        445
+      ],
+      "mask_path": "frame_00066_mask.png",
+      "overlay_path": "frame_00066_overlay.png",
+      "area": 5346
+    },
+    {
+      "frame_idx": 1005,
+      "processed_idx": 67,
+      "confidence": 0.85,
+      "bbox": [
+        1236,
+        405,
+        1375,
+        445
+      ],
+      "mask_path": "frame_00067_mask.png",
+      "overlay_path": "frame_00067_overlay.png",
+      "area": 5346
+    },
+    {
+      "frame_idx": 1020,
+      "processed_idx": 68,
+      "confidence": 0.85,
+      "bbox": [
+        1236,
+        405,
+        1375,
+        445
+      ],
+      "mask_path": "frame_00068_mask.png",
+      "overlay_path": "frame_00068_overlay.png",
+      "area": 5346
+    },
+    {
+      "frame_idx": 1035,
+      "processed_idx": 69,
+      "confidence": 0.85,
+      "bbox": [
+        1236,
+        405,
+        1375,
+        445
+      ],
+      "mask_path": "frame_00069_mask.png",
+      "overlay_path": "frame_00069_overlay.png",
+      "area": 5346
+    },
+    {
+      "frame_idx": 1050,
+      "processed_idx": 70,
+      "confidence": 0.85,
+      "bbox": [
+        1236,
+        405,
+        1375,
+        445
+      ],
+      "mask_path": "frame_00070_mask.png",
+      "overlay_path": "frame_00070_overlay.png",
+      "area": 5346
+    },
+    {
+      "frame_idx": 1065,
+      "processed_idx": 71,
+      "confidence": 0.85,
+      "bbox": [
+        1236,
+        405,
+        1375,
+        445
+      ],
+      "mask_path": "frame_00071_mask.png",
+      "overlay_path": "frame_00071_overlay.png",
+      "area": 5346
+    },
+    {
+      "frame_idx": 1080,
+      "processed_idx": 72,
+      "confidence": 0.85,
+      "bbox": [
+        1236,
+        405,
+        1375,
+        445
+      ],
+      "mask_path": "frame_00072_mask.png",
+      "overlay_path": "frame_00072_overlay.png",
+      "area": 5346
+    },
+    {
+      "frame_idx": 1095,
+      "processed_idx": 73,
+      "confidence": 0.85,
+      "bbox": [
+        1236,
+        405,
+        1375,
+        445
+      ],
+      "mask_path": "frame_00073_mask.png",
+      "overlay_path": "frame_00073_overlay.png",
+      "area": 5346
+    },
+    {
+      "frame_idx": 1110,
+      "processed_idx": 74,
+      "confidence": 0.85,
+      "bbox": [
+        1236,
+        405,
+        1375,
+        445
+      ],
+      "mask_path": "frame_00074_mask.png",
+      "overlay_path": "frame_00074_overlay.png",
+      "area": 5346
+    },
+    {
+      "frame_idx": 1125,
+      "processed_idx": 75,
+      "confidence": 0.85,
+      "bbox": [
+        1236,
+        405,
+        1375,
+        445
+      ],
+      "mask_path": "frame_00075_mask.png",
+      "overlay_path": "frame_00075_overlay.png",
+      "area": 5346
+    },
+    {
+      "frame_idx": 1140,
+      "processed_idx": 76,
+      "confidence": 0.85,
+      "bbox": [
+        1236,
+        405,
+        1375,
+        445
+      ],
+      "mask_path": "frame_00076_mask.png",
+      "overlay_path": "frame_00076_overlay.png",
+      "area": 5346
+    },
+    {
+      "frame_idx": 1155,
+      "processed_idx": 77,
+      "confidence": 0.85,
+      "bbox": [
+        1236,
+        405,
+        1375,
+        445
+      ],
+      "mask_path": "frame_00077_mask.png",
+      "overlay_path": "frame_00077_overlay.png",
+      "area": 5346
+    },
+    {
+      "frame_idx": 1170,
+      "processed_idx": 78,
+      "confidence": 0.85,
+      "bbox": [
+        1236,
+        405,
+        1375,
+        445
+      ],
+      "mask_path": "frame_00078_mask.png",
+      "overlay_path": "frame_00078_overlay.png",
+      "area": 5346
+    },
+    {
+      "frame_idx": 1185,
+      "processed_idx": 79,
+      "confidence": 0.85,
+      "bbox": [
+        1236,
+        405,
+        1375,
+        445
+      ],
+      "mask_path": "frame_00079_mask.png",
+      "overlay_path": "frame_00079_overlay.png",
+      "area": 5346
+    },
+    {
+      "frame_idx": 1200,
+      "processed_idx": 80,
+      "confidence": 0.85,
+      "bbox": [
+        1236,
+        405,
+        1375,
+        445
+      ],
+      "mask_path": "frame_00080_mask.png",
+      "overlay_path": "frame_00080_overlay.png",
+      "area": 5346
+    },
+    {
+      "frame_idx": 1215,
+      "processed_idx": 81,
+      "confidence": 0.85,
+      "bbox": [
+        1236,
+        405,
+        1375,
+        445
+      ],
+      "mask_path": "frame_00081_mask.png",
+      "overlay_path": "frame_00081_overlay.png",
+      "area": 5346
+    },
+    {
+      "frame_idx": 1230,
+      "processed_idx": 82,
+      "confidence": 0.85,
+      "bbox": [
+        1236,
+        405,
+        1375,
+        445
+      ],
+      "mask_path": "frame_00082_mask.png",
+      "overlay_path": "frame_00082_overlay.png",
+      "area": 5346
+    },
+    {
+      "frame_idx": 1245,
+      "processed_idx": 83,
+      "confidence": 0.85,
+      "bbox": [
+        1236,
+        405,
+        1375,
+        445
+      ],
+      "mask_path": "frame_00083_mask.png",
+      "overlay_path": "frame_00083_overlay.png",
+      "area": 5346
+    },
+    {
+      "frame_idx": 1305,
+      "processed_idx": 87,
+      "confidence": 0.85,
+      "bbox": [
+        60,
+        524,
+        326,
+        724
+      ],
+      "mask_path": "frame_00087_mask.png",
+      "overlay_path": "frame_00087_overlay.png",
+      "area": 52660
+    },
+    {
+      "frame_idx": 1320,
+      "processed_idx": 88,
+      "confidence": 0.85,
+      "bbox": [
+        60,
+        524,
+        326,
+        724
+      ],
+      "mask_path": "frame_00088_mask.png",
+      "overlay_path": "frame_00088_overlay.png",
+      "area": 52662
+    },
+    {
+      "frame_idx": 1335,
+      "processed_idx": 89,
+      "confidence": 0.85,
+      "bbox": [
+        60,
+        524,
+        326,
+        724
+      ],
+      "mask_path": "frame_00089_mask.png",
+      "overlay_path": "frame_00089_overlay.png",
+      "area": 52662
+    },
+    {
+      "frame_idx": 1350,
+      "processed_idx": 90,
+      "confidence": 0.85,
+      "bbox": [
+        60,
+        524,
+        326,
+        724
+      ],
+      "mask_path": "frame_00090_mask.png",
+      "overlay_path": "frame_00090_overlay.png",
+      "area": 52662
+    },
+    {
+      "frame_idx": 1365,
+      "processed_idx": 91,
+      "confidence": 0.85,
+      "bbox": [
+        60,
+        524,
+        326,
+        724
+      ],
+      "mask_path": "frame_00091_mask.png",
+      "overlay_path": "frame_00091_overlay.png",
+      "area": 52662
+    },
+    {
+      "frame_idx": 1380,
+      "processed_idx": 92,
+      "confidence": 0.85,
+      "bbox": [
+        60,
+        524,
+        326,
+        724
+      ],
+      "mask_path": "frame_00092_mask.png",
+      "overlay_path": "frame_00092_overlay.png",
+      "area": 52662
+    },
+    {
+      "frame_idx": 1395,
+      "processed_idx": 93,
+      "confidence": 0.85,
+      "bbox": [
+        60,
+        524,
+        326,
+        724
+      ],
+      "mask_path": "frame_00093_mask.png",
+      "overlay_path": "frame_00093_overlay.png",
+      "area": 52661
+    },
+    {
+      "frame_idx": 1410,
+      "processed_idx": 94,
+      "confidence": 0.85,
+      "bbox": [
+        60,
+        524,
+        326,
+        724
+      ],
+      "mask_path": "frame_00094_mask.png",
+      "overlay_path": "frame_00094_overlay.png",
+      "area": 52660
+    },
+    {
+      "frame_idx": 1425,
+      "processed_idx": 95,
+      "confidence": 0.85,
+      "bbox": [
+        60,
+        524,
+        326,
+        724
+      ],
+      "mask_path": "frame_00095_mask.png",
+      "overlay_path": "frame_00095_overlay.png",
+      "area": 52660
+    },
+    {
+      "frame_idx": 1440,
+      "processed_idx": 96,
+      "confidence": 0.85,
+      "bbox": [
+        60,
+        524,
+        326,
+        724
+      ],
+      "mask_path": "frame_00096_mask.png",
+      "overlay_path": "frame_00096_overlay.png",
+      "area": 52660
+    },
+    {
+      "frame_idx": 1455,
+      "processed_idx": 97,
+      "confidence": 0.85,
+      "bbox": [
+        860,
+        654,
+        899,
+        694
+      ],
+      "mask_path": "frame_00097_mask.png",
+      "overlay_path": "frame_00097_overlay.png",
+      "area": 1180
+    },
+    {
+      "frame_idx": 1470,
+      "processed_idx": 98,
+      "confidence": 0.85,
+      "bbox": [
+        860,
+        654,
+        899,
+        694
+      ],
+      "mask_path": "frame_00098_mask.png",
+      "overlay_path": "frame_00098_overlay.png",
+      "area": 1180
+    },
+    {
+      "frame_idx": 1485,
+      "processed_idx": 99,
+      "confidence": 0.85,
+      "bbox": [
+        860,
+        654,
+        899,
+        694
+      ],
+      "mask_path": "frame_00099_mask.png",
+      "overlay_path": "frame_00099_overlay.png",
+      "area": 1180
+    }
+  ],
+  "detected_frames": 97,
+  "detection_rate": 0.97
+}

@@ -1,0 +1,28 @@
+# Operation Gridlock - Backend Requirements (Phase 1)
+# Core FastAPI & Server
+fastapi==0.104.1
+uvicorn[standard]==0.24.0
+python-multipart==0.0.6
+aiofiles==23.2.1
+pydantic==2.5.0
+pydantic-settings==2.1.0
+
+# HTTP & API Clients
+requests==2.31.0
+httpx==0.25.2
+
+# CORS & Middleware
+python-jose==3.3.0
+
+# Image Processing (Phase 1 - Basic)
+Pillow>=10.4.0
+numpy>=1.26.0
+
+# SAM3 / Computer Vision (Optional)
+opencv-python>=4.8.0
+transformers>=4.40.0
+torch>=2.0.0
+accelerate>=0.20.0
+
+# File handling & utilities
+python-dotenv==1.0.0

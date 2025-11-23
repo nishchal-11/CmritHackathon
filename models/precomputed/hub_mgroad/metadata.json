@@ -1,0 +1,1208 @@
+{
+  "node_name": "hub_mgroad",
+  "total_frames": 100,
+  "detected_frames": 100,
+  "detection_rate": 1.0,
+  "frames": [
+    {
+      "frame_idx": 0,
+      "confidence": 0.31202322244644165,
+      "bbox": [
+        182,
+        384,
+        223,
+        423
+      ],
+      "mask_path": "frame_00000_mask.png",
+      "overlay_path": "frame_00000_overlay.png"
+    },
+    {
+      "frame_idx": 1,
+      "confidence": 0.30897530913352966,
+      "bbox": [
+        182,
+        384,
+        222,
+        424
+      ],
+      "mask_path": "frame_00001_mask.png",
+      "overlay_path": "frame_00001_overlay.png"
+    },
+    {
+      "frame_idx": 2,
+      "confidence": 0.3120085895061493,
+      "bbox": [
+        182,
+        384,
+        222,
+        424
+      ],
+      "mask_path": "frame_00002_mask.png",
+      "overlay_path": "frame_00002_overlay.png"
+    },
+    {
+      "frame_idx": 3,
+      "confidence": 0.3115273714065552,
+      "bbox": [
+        182,
+        384,
+        222,
+        424
+      ],
+      "mask_path": "frame_00003_mask.png",
+      "overlay_path": "frame_00003_overlay.png"
+    },
+    {
+      "frame_idx": 4,
+      "confidence": 0.31297773122787476,
+      "bbox": [
+        182,
+        384,
+        222,
+        424
+      ],
+      "mask_path": "frame_00004_mask.png",
+      "overlay_path": "frame_00004_overlay.png"
+    },
+    {
+      "frame_idx": 5,
+      "confidence": 0.3134305477142334,
+      "bbox": [
+        182,
+        384,
+        222,
+        424
+      ],
+      "mask_path": "frame_00005_mask.png",
+      "overlay_path": "frame_00005_overlay.png"
+    },
+    {
+      "frame_idx": 6,
+      "confidence": 0.3167339861392975,
+      "bbox": [
+        182,
+        384,
+        222,
+        424
+      ],
+      "mask_path": "frame_00006_mask.png",
+      "overlay_path": "frame_00006_overlay.png"
+    },
+    {
+      "frame_idx": 7,
+      "confidence": 0.31648585200309753,
+      "bbox": [
+        182,
+        384,
+        222,
+        424
+      ],
+      "mask_path": "frame_00007_mask.png",
+      "overlay_path": "frame_00007_overlay.png"
+    },
+    {
+      "frame_idx": 8,
+      "confidence": 0.31584763526916504,
+      "bbox": [
+        182,
+        384,
+        222,
+        424
+      ],
+      "mask_path": "frame_00008_mask.png",
+      "overlay_path": "frame_00008_overlay.png"
+    },
+    {
+      "frame_idx": 9,
+      "confidence": 0.31867799162864685,
+      "bbox": [
+        182,
+        384,
+        222,
+        424
+      ],
+      "mask_path": "frame_00009_mask.png",
+      "overlay_path": "frame_00009_overlay.png"
+    },
+    {
+      "frame_idx": 10,
+      "confidence": 0.3154772222042084,
+      "bbox": [
+        182,
+        383,
+        222,
+        424
+      ],
+      "mask_path": "frame_00010_mask.png",
+      "overlay_path": "frame_00010_overlay.png"
+    },
+    {
+      "frame_idx": 11,
+      "confidence": 0.31763502955436707,
+      "bbox": [
+        182,
+        384,
+        222,
+        424
+      ],
+      "mask_path": "frame_00011_mask.png",
+      "overlay_path": "frame_00011_overlay.png"
+    },
+    {
+      "frame_idx": 12,
+      "confidence": 0.31752145290374756,
+      "bbox": [
+        182,
+        384,
+        222,
+        424
+      ],
+      "mask_path": "frame_00012_mask.png",
+      "overlay_path": "frame_00012_overlay.png"
+    },
+    {
+      "frame_idx": 13,
+      "confidence": 0.32301202416419983,
+      "bbox": [
+        182,
+        384,
+        222,
+        424
+      ],
+      "mask_path": "frame_00013_mask.png",
+      "overlay_path": "frame_00013_overlay.png"
+    },
+    {
+      "frame_idx": 14,
+      "confidence": 0.3227148950099945,
+      "bbox": [
+        182,
+        384,
+        222,
+        424
+      ],
+      "mask_path": "frame_00014_mask.png",
+      "overlay_path": "frame_00014_overlay.png"
+    },
+    {
+      "frame_idx": 15,
+      "confidence": 0.3229767978191376,
+      "bbox": [
+        182,
+        384,
+        222,
+        424
+      ],
+      "mask_path": "frame_00015_mask.png",
+      "overlay_path": "frame_00015_overlay.png"
+    },
+    {
+      "frame_idx": 16,
+      "confidence": 0.31772688031196594,
+      "bbox": [
+        182,
+        384,
+        223,
+        424
+      ],
+      "mask_path": "frame_00016_mask.png",
+      "overlay_path": "frame_00016_overlay.png"
+    },
+    {
+      "frame_idx": 17,
+      "confidence": 0.318127304315567,
+      "bbox": [
+        182,
+        384,
+        223,
+        424
+      ],
+      "mask_path": "frame_00017_mask.png",
+      "overlay_path": "frame_00017_overlay.png"
+    },
+    {
+      "frame_idx": 18,
+      "confidence": 0.31748464703559875,
+      "bbox": [
+        182,
+        384,
+        223,
+        424
+      ],
+      "mask_path": "frame_00018_mask.png",
+      "overlay_path": "frame_00018_overlay.png"
+    },
+    {
+      "frame_idx": 19,
+      "confidence": 0.3161332309246063,
+      "bbox": [
+        182,
+        384,
+        223,
+        424
+      ],
+      "mask_path": "frame_00019_mask.png",
+      "overlay_path": "frame_00019_overlay.png"
+    },
+    {
+      "frame_idx": 20,
+      "confidence": 0.3158811926841736,
+      "bbox": [
+        182,
+        383,
+        223,
+        424
+      ],
+      "mask_path": "frame_00020_mask.png",
+      "overlay_path": "frame_00020_overlay.png"
+    },
+    {
+      "frame_idx": 21,
+      "confidence": 0.31202733516693115,
+      "bbox": [
+        182,
+        384,
+        223,
+        424
+      ],
+      "mask_path": "frame_00021_mask.png",
+      "overlay_path": "frame_00021_overlay.png"
+    },
+    {
+      "frame_idx": 22,
+      "confidence": 0.3119358718395233,
+      "bbox": [
+        182,
+        384,
+        223,
+        424
+      ],
+      "mask_path": "frame_00022_mask.png",
+      "overlay_path": "frame_00022_overlay.png"
+    },
+    {
+      "frame_idx": 23,
+      "confidence": 0.3079968988895416,
+      "bbox": [
+        182,
+        384,
+        223,
+        424
+      ],
+      "mask_path": "frame_00023_mask.png",
+      "overlay_path": "frame_00023_overlay.png"
+    },
+    {
+      "frame_idx": 24,
+      "confidence": 0.31011727452278137,
+      "bbox": [
+        182,
+        383,
+        223,
+        424
+      ],
+      "mask_path": "frame_00024_mask.png",
+      "overlay_path": "frame_00024_overlay.png"
+    },
+    {
+      "frame_idx": 25,
+      "confidence": 0.30688732862472534,
+      "bbox": [
+        182,
+        384,
+        224,
+        424
+      ],
+      "mask_path": "frame_00025_mask.png",
+      "overlay_path": "frame_00025_overlay.png"
+    },
+    {
+      "frame_idx": 26,
+      "confidence": 0.3054738938808441,
+      "bbox": [
+        182,
+        384,
+        224,
+        424
+      ],
+      "mask_path": "frame_00026_mask.png",
+      "overlay_path": "frame_00026_overlay.png"
+    },
+    {
+      "frame_idx": 27,
+      "confidence": 0.3053690195083618,
+      "bbox": [
+        182,
+        384,
+        224,
+        424
+      ],
+      "mask_path": "frame_00027_mask.png",
+      "overlay_path": "frame_00027_overlay.png"
+    },
+    {
+      "frame_idx": 28,
+      "confidence": 0.30457648634910583,
+      "bbox": [
+        182,
+        384,
+        224,
+        424
+      ],
+      "mask_path": "frame_00028_mask.png",
+      "overlay_path": "frame_00028_overlay.png"
+    },
+    {
+      "frame_idx": 29,
+      "confidence": 0.3068528175354004,
+      "bbox": [
+        182,
+        384,
+        224,
+        424
+      ],
+      "mask_path": "frame_00029_mask.png",
+      "overlay_path": "frame_00029_overlay.png"
+    },
+    {
+      "frame_idx": 30,
+      "confidence": 0.30861759185791016,
+      "bbox": [
+        182,
+        384,
+        224,
+        423
+      ],
+      "mask_path": "frame_00030_mask.png",
+      "overlay_path": "frame_00030_overlay.png"
+    },
+    {
+      "frame_idx": 31,
+      "confidence": 0.314057856798172,
+      "bbox": [
+        182,
+        383,
+        224,
+        422
+      ],
+      "mask_path": "frame_00031_mask.png",
+      "overlay_path": "frame_00031_overlay.png"
+    },
+    {
+      "frame_idx": 32,
+      "confidence": 0.3128955662250519,
+      "bbox": [
+        182,
+        383,
+        224,
+        422
+      ],
+      "mask_path": "frame_00032_mask.png",
+      "overlay_path": "frame_00032_overlay.png"
+    },
+    {
+      "frame_idx": 33,
+      "confidence": 0.30622464418411255,
+      "bbox": [
+        182,
+        383,
+        224,
+        423
+      ],
+      "mask_path": "frame_00033_mask.png",
+      "overlay_path": "frame_00033_overlay.png"
+    },
+    {
+      "frame_idx": 34,
+      "confidence": 0.3072497546672821,
+      "bbox": [
+        182,
+        383,
+        224,
+        423
+      ],
+      "mask_path": "frame_00034_mask.png",
+      "overlay_path": "frame_00034_overlay.png"
+    },
+    {
+      "frame_idx": 35,
+      "confidence": 0.3082011938095093,
+      "bbox": [
+        182,
+        382,
+        224,
+        423
+      ],
+      "mask_path": "frame_00035_mask.png",
+      "overlay_path": "frame_00035_overlay.png"
+    },
+    {
+      "frame_idx": 36,
+      "confidence": 0.323024183511734,
+      "bbox": [
+        182,
+        382,
+        224,
+        423
+      ],
+      "mask_path": "frame_00036_mask.png",
+      "overlay_path": "frame_00036_overlay.png"
+    },
+    {
+      "frame_idx": 37,
+      "confidence": 0.3223961591720581,
+      "bbox": [
+        182,
+        382,
+        224,
+        423
+      ],
+      "mask_path": "frame_00037_mask.png",
+      "overlay_path": "frame_00037_overlay.png"
+    },
+    {
+      "frame_idx": 38,
+      "confidence": 0.33105728030204773,
+      "bbox": [
+        182,
+        382,
+        224,
+        423
+      ],
+      "mask_path": "frame_00038_mask.png",
+      "overlay_path": "frame_00038_overlay.png"
+    },
+    {
+      "frame_idx": 39,
+      "confidence": 0.3323376476764679,
+      "bbox": [
+        182,
+        382,
+        224,
+        423
+      ],
+      "mask_path": "frame_00039_mask.png",
+      "overlay_path": "frame_00039_overlay.png"
+    },
+    {
+      "frame_idx": 40,
+      "confidence": 0.332385778427124,
+      "bbox": [
+        182,
+        382,
+        223,
+        423
+      ],
+      "mask_path": "frame_00040_mask.png",
+      "overlay_path": "frame_00040_overlay.png"
+    },
+    {
+      "frame_idx": 41,
+      "confidence": 0.3279295563697815,
+      "bbox": [
+        182,
+        382,
+        223,
+        422
+      ],
+      "mask_path": "frame_00041_mask.png",
+      "overlay_path": "frame_00041_overlay.png"
+    },
+    {
+      "frame_idx": 42,
+      "confidence": 0.3346536457538605,
+      "bbox": [
+        182,
+        382,
+        223,
+        422
+      ],
+      "mask_path": "frame_00042_mask.png",
+      "overlay_path": "frame_00042_overlay.png"
+    },
+    {
+      "frame_idx": 43,
+      "confidence": 0.33253294229507446,
+      "bbox": [
+        182,
+        382,
+        223,
+        422
+      ],
+      "mask_path": "frame_00043_mask.png",
+      "overlay_path": "frame_00043_overlay.png"
+    },
+    {
+      "frame_idx": 44,
+      "confidence": 0.32633307576179504,
+      "bbox": [
+        182,
+        380,
+        224,
+        422
+      ],
+      "mask_path": "frame_00044_mask.png",
+      "overlay_path": "frame_00044_overlay.png"
+    },
+    {
+      "frame_idx": 45,
+      "confidence": 0.3263358175754547,
+      "bbox": [
+        182,
+        380,
+        224,
+        422
+      ],
+      "mask_path": "frame_00045_mask.png",
+      "overlay_path": "frame_00045_overlay.png"
+    },
+    {
+      "frame_idx": 46,
+      "confidence": 0.31757012009620667,
+      "bbox": [
+        182,
+        381,
+        224,
+        422
+      ],
+      "mask_path": "frame_00046_mask.png",
+      "overlay_path": "frame_00046_overlay.png"
+    },
+    {
+      "frame_idx": 47,
+      "confidence": 0.31958985328674316,
+      "bbox": [
+        182,
+        381,
+        222,
+        422
+      ],
+      "mask_path": "frame_00047_mask.png",
+      "overlay_path": "frame_00047_overlay.png"
+    },
+    {
+      "frame_idx": 48,
+      "confidence": 0.31851691007614136,
+      "bbox": [
+        182,
+        381,
+        223,
+        421
+      ],
+      "mask_path": "frame_00048_mask.png",
+      "overlay_path": "frame_00048_overlay.png"
+    },
+    {
+      "frame_idx": 49,
+      "confidence": 0.31906354427337646,
+      "bbox": [
+        182,
+        380,
+        223,
+        421
+      ],
+      "mask_path": "frame_00049_mask.png",
+      "overlay_path": "frame_00049_overlay.png"
+    },
+    {
+      "frame_idx": 50,
+      "confidence": 0.3191167116165161,
+      "bbox": [
+        182,
+        380,
+        223,
+        421
+      ],
+      "mask_path": "frame_00050_mask.png",
+      "overlay_path": "frame_00050_overlay.png"
+    },
+    {
+      "frame_idx": 51,
+      "confidence": 0.317361056804657,
+      "bbox": [
+        182,
+        378,
+        222,
+        422
+      ],
+      "mask_path": "frame_00051_mask.png",
+      "overlay_path": "frame_00051_overlay.png"
+    },
+    {
+      "frame_idx": 52,
+      "confidence": 0.3175359070301056,
+      "bbox": [
+        182,
+        378,
+        222,
+        422
+      ],
+      "mask_path": "frame_00052_mask.png",
+      "overlay_path": "frame_00052_overlay.png"
+    },
+    {
+      "frame_idx": 53,
+      "confidence": 0.3216683566570282,
+      "bbox": [
+        182,
+        378,
+        222,
+        422
+      ],
+      "mask_path": "frame_00053_mask.png",
+      "overlay_path": "frame_00053_overlay.png"
+    },
+    {
+      "frame_idx": 54,
+      "confidence": 0.32197144627571106,
+      "bbox": [
+        182,
+        378,
+        222,
+        421
+      ],
+      "mask_path": "frame_00054_mask.png",
+      "overlay_path": "frame_00054_overlay.png"
+    },
+    {
+      "frame_idx": 55,
+      "confidence": 0.32101237773895264,
+      "bbox": [
+        182,
+        378,
+        222,
+        421
+      ],
+      "mask_path": "frame_00055_mask.png",
+      "overlay_path": "frame_00055_overlay.png"
+    },
+    {
+      "frame_idx": 56,
+      "confidence": 0.31965506076812744,
+      "bbox": [
+        182,
+        378,
+        222,
+        421
+      ],
+      "mask_path": "frame_00056_mask.png",
+      "overlay_path": "frame_00056_overlay.png"
+    },
+    {
+      "frame_idx": 57,
+      "confidence": 0.32330185174942017,
+      "bbox": [
+        182,
+        380,
+        222,
+        422
+      ],
+      "mask_path": "frame_00057_mask.png",
+      "overlay_path": "frame_00057_overlay.png"
+    },
+    {
+      "frame_idx": 58,
+      "confidence": 0.32330185174942017,
+      "bbox": [
+        182,
+        380,
+        222,
+        422
+      ],
+      "mask_path": "frame_00058_mask.png",
+      "overlay_path": "frame_00058_overlay.png"
+    },
+    {
+      "frame_idx": 59,
+      "confidence": 0.3231494128704071,
+      "bbox": [
+        182,
+        380,
+        222,
+        422
+      ],
+      "mask_path": "frame_00059_mask.png",
+      "overlay_path": "frame_00059_overlay.png"
+    },
+    {
+      "frame_idx": 60,
+      "confidence": 0.3222787380218506,
+      "bbox": [
+        182,
+        380,
+        222,
+        422
+      ],
+      "mask_path": "frame_00060_mask.png",
+      "overlay_path": "frame_00060_overlay.png"
+    },
+    {
+      "frame_idx": 61,
+      "confidence": 0.30627474188804626,
+      "bbox": [
+        182,
+        380,
+        223,
+        422
+      ],
+      "mask_path": "frame_00061_mask.png",
+      "overlay_path": "frame_00061_overlay.png"
+    },
+    {
+      "frame_idx": 62,
+      "confidence": 0.30609622597694397,
+      "bbox": [
+        182,
+        380,
+        223,
+        422
+      ],
+      "mask_path": "frame_00062_mask.png",
+      "overlay_path": "frame_00062_overlay.png"
+    },
+    {
+      "frame_idx": 63,
+      "confidence": 0.30625906586647034,
+      "bbox": [
+        182,
+        380,
+        223,
+        422
+      ],
+      "mask_path": "frame_00063_mask.png",
+      "overlay_path": "frame_00063_overlay.png"
+    },
+    {
+      "frame_idx": 64,
+      "confidence": 0.34794366359710693,
+      "bbox": [
+        140,
+        424,
+        206,
+        492
+      ],
+      "mask_path": "frame_00064_mask.png",
+      "overlay_path": "frame_00064_overlay.png"
+    },
+    {
+      "frame_idx": 65,
+      "confidence": 0.33600562810897827,
+      "bbox": [
+        140,
+        422,
+        206,
+        492
+      ],
+      "mask_path": "frame_00065_mask.png",
+      "overlay_path": "frame_00065_overlay.png"
+    },
+    {
+      "frame_idx": 66,
+      "confidence": 0.32400840520858765,
+      "bbox": [
+        140,
+        422,
+        206,
+        491
+      ],
+      "mask_path": "frame_00066_mask.png",
+      "overlay_path": "frame_00066_overlay.png"
+    },
+    {
+      "frame_idx": 67,
+      "confidence": 0.32422876358032227,
+      "bbox": [
+        140,
+        422,
+        206,
+        491
+      ],
+      "mask_path": "frame_00067_mask.png",
+      "overlay_path": "frame_00067_overlay.png"
+    },
+    {
+      "frame_idx": 68,
+      "confidence": 0.33484983444213867,
+      "bbox": [
+        140,
+        420,
+        206,
+        492
+      ],
+      "mask_path": "frame_00068_mask.png",
+      "overlay_path": "frame_00068_overlay.png"
+    },
+    {
+      "frame_idx": 69,
+      "confidence": 0.340288907289505,
+      "bbox": [
+        140,
+        420,
+        206,
+        492
+      ],
+      "mask_path": "frame_00069_mask.png",
+      "overlay_path": "frame_00069_overlay.png"
+    },
+    {
+      "frame_idx": 70,
+      "confidence": 0.3363872170448303,
+      "bbox": [
+        140,
+        420,
+        206,
+        492
+      ],
+      "mask_path": "frame_00070_mask.png",
+      "overlay_path": "frame_00070_overlay.png"
+    },
+    {
+      "frame_idx": 71,
+      "confidence": 0.332341730594635,
+      "bbox": [
+        140,
+        420,
+        206,
+        490
+      ],
+      "mask_path": "frame_00071_mask.png",
+      "overlay_path": "frame_00071_overlay.png"
+    },
+    {
+      "frame_idx": 72,
+      "confidence": 0.32549697160720825,
+      "bbox": [
+        140,
+        418,
+        206,
+        490
+      ],
+      "mask_path": "frame_00072_mask.png",
+      "overlay_path": "frame_00072_overlay.png"
+    },
+    {
+      "frame_idx": 73,
+      "confidence": 0.32830849289894104,
+      "bbox": [
+        140,
+        418,
+        206,
+        490
+      ],
+      "mask_path": "frame_00073_mask.png",
+      "overlay_path": "frame_00073_overlay.png"
+    },
+    {
+      "frame_idx": 74,
+      "confidence": 0.31812813878059387,
+      "bbox": [
+        140,
+        418,
+        206,
+        490
+      ],
+      "mask_path": "frame_00074_mask.png",
+      "overlay_path": "frame_00074_overlay.png"
+    },
+    {
+      "frame_idx": 75,
+      "confidence": 0.30983924865722656,
+      "bbox": [
+        140,
+        418,
+        206,
+        490
+      ],
+      "mask_path": "frame_00075_mask.png",
+      "overlay_path": "frame_00075_overlay.png"
+    },
+    {
+      "frame_idx": 76,
+      "confidence": 0.30946511030197144,
+      "bbox": [
+        140,
+        416,
+        206,
+        490
+      ],
+      "mask_path": "frame_00076_mask.png",
+      "overlay_path": "frame_00076_overlay.png"
+    },
+    {
+      "frame_idx": 77,
+      "confidence": 0.31265193223953247,
+      "bbox": [
+        140,
+        417,
+        206,
+        490
+      ],
+      "mask_path": "frame_00077_mask.png",
+      "overlay_path": "frame_00077_overlay.png"
+    },
+    {
+      "frame_idx": 78,
+      "confidence": 0.3069232404232025,
+      "bbox": [
+        140,
+        416,
+        206,
+        480
+      ],
+      "mask_path": "frame_00078_mask.png",
+      "overlay_path": "frame_00078_overlay.png"
+    },
+    {
+      "frame_idx": 79,
+      "confidence": 0.30550646781921387,
+      "bbox": [
+        140,
+        416,
+        206,
+        479
+      ],
+      "mask_path": "frame_00079_mask.png",
+      "overlay_path": "frame_00079_overlay.png"
+    },
+    {
+      "frame_idx": 80,
+      "confidence": 0.2982896566390991,
+      "bbox": [
+        140,
+        416,
+        206,
+        479
+      ],
+      "mask_path": "frame_00080_mask.png",
+      "overlay_path": "frame_00080_overlay.png"
+    },
+    {
+      "frame_idx": 81,
+      "confidence": 0.3032940626144409,
+      "bbox": [
+        137,
+        414,
+        206,
+        479
+      ],
+      "mask_path": "frame_00081_mask.png",
+      "overlay_path": "frame_00081_overlay.png"
+    },
+    {
+      "frame_idx": 82,
+      "confidence": 0.2978779971599579,
+      "bbox": [
+        141,
+        414,
+        206,
+        478
+      ],
+      "mask_path": "frame_00082_mask.png",
+      "overlay_path": "frame_00082_overlay.png"
+    },
+    {
+      "frame_idx": 83,
+      "confidence": 0.32721444964408875,
+      "bbox": [
+        141,
+        414,
+        207,
+        477
+      ],
+      "mask_path": "frame_00083_mask.png",
+      "overlay_path": "frame_00083_overlay.png"
+    },
+    {
+      "frame_idx": 84,
+      "confidence": 0.29853057861328125,
+      "bbox": [
+        140,
+        414,
+        207,
+        475
+      ],
+      "mask_path": "frame_00084_mask.png",
+      "overlay_path": "frame_00084_overlay.png"
+    },
+    {
+      "frame_idx": 85,
+      "confidence": 0.28822046518325806,
+      "bbox": [
+        140,
+        414,
+        207,
+        474
+      ],
+      "mask_path": "frame_00085_mask.png",
+      "overlay_path": "frame_00085_overlay.png"
+    },
+    {
+      "frame_idx": 86,
+      "confidence": 0.30596306920051575,
+      "bbox": [
+        140,
+        412,
+        207,
+        473
+      ],
+      "mask_path": "frame_00086_mask.png",
+      "overlay_path": "frame_00086_overlay.png"
+    },
+    {
+      "frame_idx": 87,
+      "confidence": 0.30723366141319275,
+      "bbox": [
+        140,
+        412,
+        207,
+        473
+      ],
+      "mask_path": "frame_00087_mask.png",
+      "overlay_path": "frame_00087_overlay.png"
+    },
+    {
+      "frame_idx": 88,
+      "confidence": 0.29591771960258484,
+      "bbox": [
+        140,
+        412,
+        207,
+        472
+      ],
+      "mask_path": "frame_00088_mask.png",
+      "overlay_path": "frame_00088_overlay.png"
+    },
+    {
+      "frame_idx": 89,
+      "confidence": 0.2786198556423187,
+      "bbox": [
+        140,
+        412,
+        206,
+        472
+      ],
+      "mask_path": "frame_00089_mask.png",
+      "overlay_path": "frame_00089_overlay.png"
+    },
+    {
+      "frame_idx": 90,
+      "confidence": 0.2865079343318939,
+      "bbox": [
+        140,
+        412,
+        206,
+        472
+      ],
+      "mask_path": "frame_00090_mask.png",
+      "overlay_path": "frame_00090_overlay.png"
+    },
+    {
+      "frame_idx": 91,
+      "confidence": 0.30755382776260376,
+      "bbox": [
+        140,
+        412,
+        206,
+        470
+      ],
+      "mask_path": "frame_00091_mask.png",
+      "overlay_path": "frame_00091_overlay.png"
+    },
+    {
+      "frame_idx": 92,
+      "confidence": 0.3035333454608917,
+      "bbox": [
+        140,
+        412,
+        206,
+        470
+      ],
+      "mask_path": "frame_00092_mask.png",
+      "overlay_path": "frame_00092_overlay.png"
+    },
+    {
+      "frame_idx": 93,
+      "confidence": 0.3329692780971527,
+      "bbox": [
+        140,
+        412,
+        206,
+        470
+      ],
+      "mask_path": "frame_00093_mask.png",
+      "overlay_path": "frame_00093_overlay.png"
+    },
+    {
+      "frame_idx": 94,
+      "confidence": 0.3320046365261078,
+      "bbox": [
+        140,
+        412,
+        206,
+        470
+      ],
+      "mask_path": "frame_00094_mask.png",
+      "overlay_path": "frame_00094_overlay.png"
+    },
+    {
+      "frame_idx": 95,
+      "confidence": 0.3381808400154114,
+      "bbox": [
+        140,
+        412,
+        206,
+        468
+      ],
+      "mask_path": "frame_00095_mask.png",
+      "overlay_path": "frame_00095_overlay.png"
+    },
+    {
+      "frame_idx": 96,
+      "confidence": 0.33818602561950684,
+      "bbox": [
+        140,
+        412,
+        206,
+        468
+      ],
+      "mask_path": "frame_00096_mask.png",
+      "overlay_path": "frame_00096_overlay.png"
+    },
+    {
+      "frame_idx": 97,
+      "confidence": 0.3431428372859955,
+      "bbox": [
+        140,
+        412,
+        206,
+        468
+      ],
+      "mask_path": "frame_00097_mask.png",
+      "overlay_path": "frame_00097_overlay.png"
+    },
+    {
+      "frame_idx": 98,
+      "confidence": 0.35262027382850647,
+      "bbox": [
+        140,
+        412,
+        205,
+        467
+      ],
+      "mask_path": "frame_00098_mask.png",
+      "overlay_path": "frame_00098_overlay.png"
+    },
+    {
+      "frame_idx": 99,
+      "confidence": 0.32736945152282715,
+      "bbox": [
+        140,
+        412,
+        205,
+        466
+      ],
+      "mask_path": "frame_00099_mask.png",
+      "overlay_path": "frame_00099_overlay.png"
+    }
+  ]
+}

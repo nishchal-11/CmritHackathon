@@ -1,0 +1,123 @@
+{
+  "video_path": "C:\\Users\\Nishc\\OneDrive\\Desktop\\cmrit hacakthon\\gridlock-operation-foss\\assets\\videos\\camera_8_20251123_131509.mp4",
+  "node_name": "camera_8",
+  "processed_at": "2025-11-23T13:15:09.754563",
+  "total_frames": 198,
+  "fps": 30,
+  "frames": [
+    {
+      "frame_idx": 0,
+      "processed_idx": 0,
+      "confidence": 0.85,
+      "bbox": [
+        362,
+        242,
+        388,
+        356
+      ],
+      "mask_path": "frame_00000_mask.png",
+      "overlay_path": "frame_00000_overlay.png",
+      "area": 2200
+    },
+    {
+      "frame_idx": 15,
+      "processed_idx": 1,
+      "confidence": 0.85,
+      "bbox": [
+        362,
+        242,
+        388,
+        356
+      ],
+      "mask_path": "frame_00001_mask.png",
+      "overlay_path": "frame_00001_overlay.png",
+      "area": 2197
+    },
+    {
+      "frame_idx": 30,
+      "processed_idx": 2,
+      "confidence": 0.85,
+      "bbox": [
+        362,
+        242,
+        386,
+        356
+      ],
+      "mask_path": "frame_00002_mask.png",
+      "overlay_path": "frame_00002_overlay.png",
+      "area": 2189
+    },
+    {
+      "frame_idx": 45,
+      "processed_idx": 3,
+      "confidence": 0.85,
+      "bbox": [
+        362,
+        242,
+        386,
+        356
+      ],
+      "mask_path": "frame_00003_mask.png",
+      "overlay_path": "frame_00003_overlay.png",
+      "area": 2189
+    },
+    {
+      "frame_idx": 60,
+      "processed_idx": 4,
+      "confidence": 0.85,
+      "bbox": [
+        362,
+        241,
+        386,
+        356
+      ],
+      "mask_path": "frame_00004_mask.png",
+      "overlay_path": "frame_00004_overlay.png",
+      "area": 2185
+    },
+    {
+      "frame_idx": 75,
+      "processed_idx": 5,
+      "confidence": 0.85,
+      "bbox": [
+        362,
+        241,
+        386,
+        356
+      ],
+      "mask_path": "frame_00005_mask.png",
+      "overlay_path": "frame_00005_overlay.png",
+      "area": 2181
+    },
+    {
+      "frame_idx": 90,
+      "processed_idx": 6,
+      "confidence": 0.85,
+      "bbox": [
+        362,
+        240,
+        386,
+        356
+      ],
+      "mask_path": "frame_00006_mask.png",
+      "overlay_path": "frame_00006_overlay.png",
+      "area": 2183
+    },
+    {
+      "frame_idx": 105,
+      "processed_idx": 7,
+      "confidence": 0.85,
+      "bbox": [
+        362,
+        240,
+        386,
+        356
+      ],
+      "mask_path": "frame_00007_mask.png",
+      "overlay_path": "frame_00007_overlay.png",
+      "area": 2172
+    }
+  ],
+  "detected_frames": 8,
+  "detection_rate": 0.5714285714285714
+}

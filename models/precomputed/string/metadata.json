@@ -1,0 +1,165 @@
+{
+  "video_path": "C:\\Users\\Nishc\\OneDrive\\Desktop\\cmrit hacakthon\\gridlock-operation-foss\\assets\\videos\\string_20251123_125739.mp4",
+  "node_name": "string",
+  "processed_at": "2025-11-23T12:57:40.325037",
+  "total_frames": 410,
+  "fps": 30,
+  "frames": [
+    {
+      "frame_idx": 45,
+      "processed_idx": 3,
+      "confidence": 0.85,
+      "bbox": [
+        184,
+        380,
+        224,
+        421
+      ],
+      "mask_path": "frame_00003_mask.png",
+      "overlay_path": "frame_00003_overlay.png",
+      "area": 1197
+    },
+    {
+      "frame_idx": 60,
+      "processed_idx": 4,
+      "confidence": 0.85,
+      "bbox": [
+        182,
+        383,
+        222,
+        420
+      ],
+      "mask_path": "frame_00004_mask.png",
+      "overlay_path": "frame_00004_overlay.png",
+      "area": 1178
+    },
+    {
+      "frame_idx": 75,
+      "processed_idx": 5,
+      "confidence": 0.85,
+      "bbox": [
+        140,
+        418,
+        206,
+        480
+      ],
+      "mask_path": "frame_00005_mask.png",
+      "overlay_path": "frame_00005_overlay.png",
+      "area": 3152
+    },
+    {
+      "frame_idx": 90,
+      "processed_idx": 6,
+      "confidence": 0.85,
+      "bbox": [
+        140,
+        414,
+        206,
+        471
+      ],
+      "mask_path": "frame_00006_mask.png",
+      "overlay_path": "frame_00006_overlay.png",
+      "area": 2236
+    },
+    {
+      "frame_idx": 105,
+      "processed_idx": 7,
+      "confidence": 0.85,
+      "bbox": [
+        142,
+        412,
+        204,
+        463
+      ],
+      "mask_path": "frame_00007_mask.png",
+      "overlay_path": "frame_00007_overlay.png",
+      "area": 1887
+    },
+    {
+      "frame_idx": 120,
+      "processed_idx": 8,
+      "confidence": 0.85,
+      "bbox": [
+        144,
+        414,
+        202,
+        464
+      ],
+      "mask_path": "frame_00008_mask.png",
+      "overlay_path": "frame_00008_overlay.png",
+      "area": 1710
+    },
+    {
+      "frame_idx": 150,
+      "processed_idx": 10,
+      "confidence": 0.85,
+      "bbox": [
+        157,
+        413,
+        204,
+        453
+      ],
+      "mask_path": "frame_00010_mask.png",
+      "overlay_path": "frame_00010_overlay.png",
+      "area": 1192
+    },
+    {
+      "frame_idx": 165,
+      "processed_idx": 11,
+      "confidence": 0.85,
+      "bbox": [
+        162,
+        404,
+        210,
+        442
+      ],
+      "mask_path": "frame_00011_mask.png",
+      "overlay_path": "frame_00011_overlay.png",
+      "area": 1079
+    },
+    {
+      "frame_idx": 360,
+      "processed_idx": 24,
+      "confidence": 0.85,
+      "bbox": [
+        182,
+        383,
+        222,
+        420
+      ],
+      "mask_path": "frame_00024_mask.png",
+      "overlay_path": "frame_00024_overlay.png",
+      "area": 1177
+    },
+    {
+      "frame_idx": 390,
+      "processed_idx": 26,
+      "confidence": 0.85,
+      "bbox": [
+        140,
+        418,
+        206,
+        487
+      ],
+      "mask_path": "frame_00026_mask.png",
+      "overlay_path": "frame_00026_overlay.png",
+      "area": 3151
+    },
+    {
+      "frame_idx": 405,
+      "processed_idx": 27,
+      "confidence": 0.85,
+      "bbox": [
+        140,
+        412,
+        206,
+        470
+      ],
+      "mask_path": "frame_00027_mask.png",
+      "overlay_path": "frame_00027_overlay.png",
+      "area": 2659
+    }
+  ],
+  "detected_frames": 11,
+  "detection_rate": 0.39285714285714285
+}

@@ -1,0 +1,11 @@
+{
+  "node_name": "node_2_koramangala",
+  "total_frames": 100,
+  "detected_frames": 38,
+  "detection_rate": 0.38,
+  "frames": [
+    {"frame_idx": 0, "confidence": 0.78, "bbox": [220, 180, 540, 400], "mask_path": "frame_00000_mask.png", "overlay_path": "frame_00000_overlay.png"},
+    {"frame_idx": 2, "confidence": 0.82, "bbox": [225, 182, 545, 402], "mask_path": "frame_00002_mask.png", "overlay_path": "frame_00002_overlay.png"},
+    {"frame_idx": 4, "confidence": 0.76, "bbox": [230, 184, 550, 404], "mask_path": "frame_00004_mask.png", "overlay_path": "frame_00004_overlay.png"}
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "node_name": "node_1_indiranagar",
+  "total_frames": 100,
+  "detected_frames": 56,
+  "detection_rate": 0.56,
+  "frames": [
+    {"frame_idx": 0, "confidence": 0.92, "bbox": [180, 220, 480, 420], "mask_path": "frame_00000_mask.png", "overlay_path": "frame_00000_overlay.png"},
+    {"frame_idx": 1, "confidence": 0.91, "bbox": [185, 222, 485, 422], "mask_path": "frame_00001_mask.png", "overlay_path": "frame_00001_overlay.png"},
+    {"frame_idx": 2, "confidence": 0.93, "bbox": [190, 224, 490, 424], "mask_path": "frame_00002_mask.png", "overlay_path": "frame_00002_overlay.png"},
+    {"frame_idx": 3, "confidence": 0.89, "bbox": [195, 226, 495, 426], "mask_path": "frame_00003_mask.png", "overlay_path": "frame_00003_overlay.png"},
+    {"frame_idx": 4, "confidence": 0.94, "bbox": [200, 228, 500, 428], "mask_path": "frame_00004_mask.png", "overlay_path": "frame_00004_overlay.png"}
+  ]
+}

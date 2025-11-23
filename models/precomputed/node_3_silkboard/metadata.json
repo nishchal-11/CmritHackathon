@@ -1,0 +1,11 @@
+{
+  "node_name": "node_3_silkboard",
+  "total_frames": 100,
+  "detected_frames": 67,
+  "detection_rate": 0.67,
+  "frames": [
+    {"frame_idx": 0, "confidence": 0.95, "bbox": [200, 150, 520, 380], "mask_path": "frame_00000_mask.png", "overlay_path": "frame_00000_overlay.png"},
+    {"frame_idx": 1, "confidence": 0.94, "bbox": [205, 152, 525, 382], "mask_path": "frame_00001_mask.png", "overlay_path": "frame_00001_overlay.png"},
+    {"frame_idx": 2, "confidence": 0.96, "bbox": [210, 154, 530, 384], "mask_path": "frame_00002_mask.png", "overlay_path": "frame_00002_overlay.png"}
+  ]
+}
